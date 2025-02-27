@@ -7,7 +7,7 @@
 - ⚙️ Me apasionan las **matemáticas**, la **física** y la **ciencia** en general.
 - 🗣️ Hablante nativo de **español**. Conocimiento profundo de **inglés**. Conocimiento básico de **francés**.
 - 💡 Me encanta comprender cómo funcionan los fenómenos naturales y cómo conectan distintas áreas del conocimiento.
-- 🕹️ Disfruto **jugando videojuegos**, **leyendo ciencia ficción** y **libros de política**.
+- 🕹️ Disfruto **jugando videojuegos**, **leyendo ciencia ficción** y **filosofía**.
 - 🧩 Además, me interesa la **filosofía** y la **política**, y me gusta reflexionar sobre la complejidad del mundo.
 
 ## Lo que estoy haciendo
