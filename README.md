@@ -1,25 +1,23 @@
-# ¡Hola! Soy Octo 👋
+# Hi there, I'm Octavio 👋
 
-## Sobre mí
-¡Bienvenido a mi perfil! Soy **Octavio**, también conocido como **Octo**.
+Electrical Engineering student at **Universidad de Chile (FCFM)** focusing on **Digital Signal Processing (DSP)**, **large-scale data stream analysis**, **control & dynamical systems**, and **scientific instrumentation**.
 
-- 🏫 Estudiante de **ingeniería** en la Universidad de Chile.
-- ⚙️ Me apasionan las **matemáticas**, la **física** y la **ciencia** en general.
-- 🗣️ Hablante nativo de **español**. Conocimiento profundo de **inglés**. Conocimiento básico de **francés**.
-- 💡 Me encanta comprender cómo funcionan los fenómenos naturales y cómo conectan distintas áreas del conocimiento.
-- 🕹️ Disfruto **jugando videojuegos**, **leyendo ciencia ficción** y **filosofía**.
-- 🧩 Además, me interesa la **filosofía** y la **política**, y me gusta reflexionar sobre la complejidad del mundo.
+---
 
-## Lo que estoy haciendo
-- 🌱 Aprendiendo sobre **machine learning** y **data science**.
+### 🔭 Current Focus & Research
+- 📡 **Radio Astronomy & DSP:** Developing adaptive **MVDR beamforming** pipelines and spatial filtering routines for the **CHARTS Experiment** (Canadian-Chilean Array for Radio Transient Studies) at AstroLab.
+- 📊 **Data Streams & Statistical Modeling:** Processing high-throughput sensor data streams, statistical array processing, and real-time backend pipelines.
+- ⚙️ **Dynamical Systems & Control:** Studying linear system representations, frequency-domain analysis, and feedback control.
 
-## Cómo conectarte conmigo
-- **LinkedIn**: [octavio-rodriguez-cordones](https://www.linkedin.com/in/octavio-rodriguez-cordones)
-- **Correo**: [octavio.rodriguez@ug.uchile.cl](mailto:octavio.rodriguez@ug.uchile.cl)
+---
 
-## Un poco más de mí
-Además de estudiar:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (NumPy, SciPy, Astropy), C++, MATLAB & Simulink, Bash
+- **Hardware & Simulation:** LTspice, SimulIDE, Software Defined Radio (SDR)
+- **Scientific Computing & Workflows:** Linux/HPC environments, Git, LaTeX
 
-- 🌎 Soy de **Chile** y me encanta la diversidad natural de mi país.
-- 🔬 Me encanta la **divulgación científica** y aprender cosas nuevas cada día.
-- 💬 Puedes escribirme sobre cualquier tema relacionado con la ciencia, el desarrollo o simplemente para compartir ideas.
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [octavio-rodriguez-cordones](https://www.linkedin.com/in/octavio-rodriguez-cordones)
+- **Institutional Email:** [octavio.rodriguez@ing.uchile.cl](mailto:octavio.rodriguez@ing.uchile.cl)
