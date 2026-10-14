@@ -20,4 +20,4 @@ Electrical Engineering student at **Universidad de Chile (FCFM)** focusing on **
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [octavio-rodriguez-cordones](https://www.linkedin.com/in/octavio-rodriguez-cordones)
-- **Institutional Email:** [octavio.rodriguez@ing.uchile.cl](mailto:octavio.rodriguez@ing.uchile.cl)
+- **Email:** [octavio.rodriguez@ing.uchile.cl](mailto:octavio.rodriguez@ing.uchile.cl)
